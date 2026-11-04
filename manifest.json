@@ -1,0 +1,14 @@
+
+{
+  "manifest_version": 3,
+  "name": "EFD Meta Inspector",
+  "version": "1.0.0",
+  "description": "Inspect website metadata, SEO tags, and page information directly from your browser.",
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_title": "EFD Meta Inspector",
+    "default_popup": "src/popup/popup.html"
+  }
+}
