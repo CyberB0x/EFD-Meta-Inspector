@@ -5,7 +5,8 @@
   "version": "1.0.0",
   "description": "Inspect website metadata, SEO tags, and page information directly from your browser.",
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "scripting"
   ],
   "action": {
     "default_title": "EFD Meta Inspector",
